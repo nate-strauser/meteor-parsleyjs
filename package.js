@@ -3,6 +3,6 @@ Package.describe({
 });
 
 Package.on_use(function (api){
-	api.add_files('lib/parsleyjs/parsley.js', 'client');
-	api.add_files('lib/parsleyjs/parsley.extend.js', 'client');
+	api.add_files('parsleyjs/parsley.js', 'client');
+	api.add_files('parsleyjs/parsley.extend.js', 'client');
 });
