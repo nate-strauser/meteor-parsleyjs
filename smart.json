@@ -3,6 +3,6 @@
 	"description": "Latest version of Parsley.js packaged for meteor",
 	"homepage": "https://github.com/nate-strauser/meteor-parsleyjs",
 	"author": "Nate Strauser",
-	"version": "0.1.0",
+	"version": "1.1.7",
 	"git": "https://github.com/nate-strauser/meteor-parsleyjs.git"
 }
